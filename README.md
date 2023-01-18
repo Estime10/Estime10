@@ -18,7 +18,7 @@
 ---
 
 - I am a huge Nekfeu ( french rapper ) Fan
-- I have to have a big sneakers collection  
+- I used to have a big sneakers collection  
 - And **I AM THE REAL BATMAN**
 
 ### My 3 Fav in the Univers
