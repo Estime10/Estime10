@@ -1,31 +1,34 @@
 # Estime Vangu
-## A web developer story
+## A Web Dev story
 
 
 
  
 
-> As you might have understand I ❤️ basketball, I was 
-> So in love with basketball that at the age of 16 
-> I was lucky enough to turn professional.
->I played here and there. I went abroad to play as
-> well. ( it is Estim**E** if you want to google me 😂)
+> Having played basketball at the professional level, I made a 180° turn in my career. 
+>The digital world being a passion, I decided to get started. 
+>Currently in training to become a backend developer 
+>I want to improving my craft in Node.js, PostgreSQL, and MangoDB and in backend in a larger picture 
+>I am looking for an internship or a job from April 2023 where I can improve my talents and develop new ones.
+
+>Hardworking and curious, I never back down from the challenge(s) offered to me.
 
 
 ### Things you should know about me
 ---
 
-- I am a big fan of Nekfeu
-- I used to have a huge shoe collection  
+- I am a huge Nekfeu ( french rapper ) Fan
+- I have to have a big sneakers collection  
 - And **I AM THE REAL BATMAN**
 
 ### My 3 Fav in the Univers
 ---
 
-- I guess my wife is a silly answer, but she gave me the best gift ever ... my next point 
+- Chicken is my go to food
 
-- My daughter, about two months ago I became the proud Father of a little princess called  " Willow "
-- And of course,  when it comes to what I love most My mom is part of the list. Yes I am a  *MOMMY'S BOY*
+- Basket-ball was more then a game to me... I used to live out of it
+
+- Coding and debuging is something I love to do 
 
 
 
@@ -51,14 +54,6 @@ I know it might seem crazy but I would like to master as many languages as I can
 
 Here is a resume of what I have done so far
 
-| **LANGUAGE** | **CHECK** |
-| :------: | :------: |
-| HTML | still working on it |
-| CSS | still working on it |
-| JAVASCRIPT | still working on it  |
-| PHP | Did not work on it yet  |
-| SASS | work on it once  |
-
 
 ### Deepest Fear?
 ---
@@ -83,9 +78,10 @@ our presence automatically liberates others.
 
 ### Expectations   
 ---
-With this training, I am looking forward to being challenged and pushed and having my back against the ropes. 
-My opinion is that one of the great parts of being a web Dev is the challenging part 
-being stuck and spending time to find solutions.
+With this training, I am looking forward to be challenged pushed to the limits and having my back against the ropes. 
+My opinion is that one of the greatest parts of being a backend is that clients my not see what you do but they enjoy 
+having you!
+
 
 
 
