@@ -52,8 +52,6 @@
 
 I know it might seem crazy but I would like to master as many languages as I can.
 
-Here is a resume of what I have done so far
-
 
 ### Deepest Fear?
 ---
