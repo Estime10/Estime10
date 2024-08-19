@@ -1,43 +1,36 @@
-# Estime Vangu
-## A Web Dev story
+# Estime Vangu  
+## A Web Dev Story
 
+> **From the Court to the Code**  
+> After a successful career in professional basketball, I made a complete 180° in my life.  
+> Passionate about the digital world, I decided to dive into it headfirst.  
+> Since 2022, I've been honing my skills in backend development, focusing on Node.js, PostgreSQL, and MongoDB.  
+> I am currently working in the tech industry, continuously improving my talents and taking on new challenges.
 
+> Hardworking, curious, and unafraid of challenges, I am always ready to tackle whatever comes my way.
 
- 
-
-> Having played basketball at the professional level, I made a 180° turn in my career. 
->The digital world being a passion, I decided to get started. 
->Currently in training to become a backend developer 
->I want to improving my craft in Node.js, PostgreSQL, and MangoDB and in backend in a larger picture 
->I am looking for an internship or a job from April 2023 where I can improve my talents and develop new ones.
-
->Hardworking and curious, I never back down from the challenge(s) offered to me.
-
-
-### Things you should know about me
+### Things You Should Know About Me
 ---
 
-- I am a huge Nekfeu ( french rapper ) Fan
-- I used to have a big sneakers collection  
-- And **I AM THE REAL BATMAN**
+- I'm a huge fan of Nekfeu (French rapper).
+- I once had a vast sneaker collection.
+- And **I AM THE REAL BATMAN**.
 
-### My 3 Fav in the Univers
+### My 3 Favorite Things in the Universe
 ---
 
-- Chicken is my go to food
-
-- Basket-ball was more then a game to me... I used to live out of it
-
-- Coding and debuging is something I love to do 
-
-
+- Chicken is my go-to food.
+- Basketball was more than just a game to me—it was my livelihood.
+- Coding and debugging are passions that I can't get enough of.
 
 ### Achievements  
 ---
 
+Since I began coding in 2022, I have focused on developing robust applications using modern frameworks and technologies. Here’s a snapshot of my tech stack:
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=estime10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=estime10&theme=dark&hide_border=false)<br/>
@@ -47,59 +40,48 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=estime10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-I know it might seem crazy but I would like to master as many languages as I can.
-
+This is just a glimpse of what I am currently working on. My journey in tech is ongoing, as I continue to refine my skills and take on new, exciting challenges. Although clients may not always see what happens behind the scenes, they definitely appreciate the impact of a well-crafted backend.
 
 ### Deepest Fear?
 ---
-Our deepest fear is not that we are inadequate,
-**Our deepest fear is that we are powerful beyond measure.**
 
-**It is our light**, not our darkness, that most frightens us.
+Our deepest fear is not that we are inadequate,  
+**Our deepest fear is that we are powerful beyond measure.**  
+
+**It is our light**, not our darkness, that most frightens us.  
 You playing small **does not** serve the world.
 
-Nothing is enlightening about shrinking
+Nothing is enlightening about shrinking  
 so that other people won’t feel insecure around you.
 
-We were **all meant to shine** as children do.
+We were **all meant to shine** as children do.  
 It’s not just in some of us, it’s in everyone.
 
-And, as we let **our light shine**, we consciously give
-other people's permission to do the same.
+And, as we let **our light shine**, we consciously give  
+other people permission to do the same.
 
-As **we are liberated from our fear**,
+As **we are liberated from our fear**,  
 our presence automatically liberates others.
-
 
 ### Expectations   
 ---
-With this training, I am looking forward to be challenged pushed to the limits and having my back against the ropes. 
-My opinion is that one of the greatest parts of being a backend is that clients my not see what you do but they enjoy 
-having you!
 
+In my current role in the tech industry, I continuously seek to be challenged and pushed to my limits. Having my back against the ropes only fuels my drive to innovate. One of the greatest parts of being a backend developer is knowing that while clients may not see the magic, they always appreciate the result.
 
-
-
-### Team Work
+### Together Each Accomplishes More
 ---
 
-##### Together
-##### Everyone
-##### Acomplish
-##### More  
+When I played basketball, I relied on my teammates to "***GO TO WAR***".  
+As a unit, we overcame every obstacle.  
+That’s why working as a group—no, working as a ***TEAM***—is one of the best parts of web development.  
+Everyone brings unique skills and strengths to the table, which is crucial for the success of any project.
 
+### Working as a Team:
+- Helps you finish your work on time.
+- Helps you discover new things.
+- Creates a network that is important for the future.
 
-When I was playing basketball. I used to rely on my teammates to "***GO TO WAR***"
-As a unit, we can go true all the obstacles.
-And that's the reason why working as a group ... No working as a ***TEAM*** is one of the best
-Parts of web development because we all have skills and assets that can help in the project we will work on.
-
-### Working as a group
-- Helps you finish your work on time 
-- Helps you discover new things 
-- Creates a network that is important for the future
-
-![GIF](https://media.giphy.com/media/dWZbSWJfaKYWuuAbvU/giphy.gif)
+![Tech Team GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
