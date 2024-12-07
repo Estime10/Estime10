@@ -42,17 +42,34 @@ I am not just a developer—I am a **one-person powerhouse**. Here’s what I br
 - 🖌️ **UX/UI Design**: I design **clean, user-friendly interfaces** that align with modern standards and delight users.  
 - 🔧 **Database Management**: I structure **efficient and scalable databases**, ensuring seamless data flow in applications.  
 - 🧠 **Problem Solving**: Whether it’s a design challenge or debugging a complex backend issue, I tackle problems head-on.  
-- 📱 **End-to-end Development**: I independently build **web and mobile apps**, creating solutions that are both visually appealing and functionally sound.  
+- 📱 **End-to-End Development**: I independently build **web and mobile apps**, creating solutions that are both visually appealing and functionally sound.  
 - 📈 **Continuous Improvement**: I am committed to learning, growing, and staying updated with the latest trends in technology and design.
 
 From wireframing the user journey to setting up robust backend logic and deploying final products, I do it all—with passion, precision, and attention to detail.
 
 ---
 
-## **📈 GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=estime10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=estime10&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estime10&theme=dark&hide_border=false&layout=compact)
+## **The TEAM Philosophy**  
+### **Together Each Accomplishes More**  
+
+> TEAM is more than just a word; it’s a philosophy that has shaped my life on and off the basketball court. I learned early on that **no success is truly individual**—it’s the result of collaboration, shared vision, and mutual effort.
+
+In coding, just like in basketball:  
+- **T**ogether: We combine our strengths to tackle challenges more effectively.  
+- **E**ach: Every team member brings unique skills and perspectives to the table.  
+- **A**ccomplishes: Collaboration unlocks the potential to achieve results that wouldn’t be possible alone.  
+- **M**ore: The collective impact of a united team always outweighs individual contributions.
+
+---
+
+## **Why TEAMWORK Matters**  
+1. **Accelerated Growth**: A strong team helps you learn faster, push boundaries, and achieve ambitious goals.  
+2. **Diverse Solutions**: Different perspectives lead to creative and effective solutions.  
+3. **Supportive Network**: Working together fosters trust, builds lasting connections, and creates an environment where everyone thrives.  
+
+Whether it’s brainstorming ideas, debugging a tricky issue, or delivering a final product, I firmly believe that teamwork turns great ideas into impactful realities.
+
+> **“If you want to go fast, go alone. If you want to go far, go together.”**
 
 ---
 
@@ -67,15 +84,6 @@ From wireframing the user journey to setting up robust backend logic and deployi
 > It is that **we are powerful beyond measure.**  
 
 The greatest lesson basketball taught me is that strength lies in teamwork. Whether on the court or behind the screen, collaboration fuels success. I believe in working with a strong team to create meaningful, scalable solutions.
-
----
-
-## **Why Teamwork Matters**  
-- 🚀 Achieve goals faster and more efficiently.  
-- 💡 Discover new perspectives and solutions.  
-- 🤝 Build lasting connections and a supportive network.
-
-![Teamwork](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 ---
 
