@@ -1,6 +1,8 @@
 # **Estime Vangu**
 
 ## **Full-Stack Web & Mobile Developer**
+**Portfolio:** https://estimedev.vercel.app/  
+**LinkedIn:** https://www.linkedin.com/in/estime-vangu/
 
 > **From professional sports to product-driven development**
 > Former professional basketball player turned full-stack developer, I bring the same discipline, focus, and team mindset from the court into building high-quality digital products.
@@ -95,3 +97,4 @@ If you’re looking for a developer who can **translate ideas into reliable, wel
 ---
 
 [![](https://visitcount.itsvg.in/api?id=estime10\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
