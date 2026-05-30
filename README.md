@@ -1,7 +1,7 @@
 # **Estime Vangu**
 
 ## **Full-Stack Web & Mobile Developer**
-**Portfolio:** https://estimedev.vercel.app/  
+**Portfolio:** https://davinchat-folio.vercel.app  
 **LinkedIn:** https://www.linkedin.com/in/estime-vangu/
 
 > **From professional sports to product-driven development**
